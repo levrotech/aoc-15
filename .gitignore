@@ -1,0 +1,8 @@
+# vscode config files
+.vscode/*
+
+# executable & temp files
+main
+main.i
+main.o
+main.s
