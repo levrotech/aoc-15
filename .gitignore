@@ -2,7 +2,7 @@
 .vscode/*
 
 # executable & temp files
-main
-main.i
-main.o
-main.s
+app
+*.i
+*.o
+*.s
