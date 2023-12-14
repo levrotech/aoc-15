@@ -22,5 +22,5 @@ void day1(void) {
             floor -= 1;
         }
     }
-    printf("Santa is on the %i floor", floor);
+    printf("Santa is on the %i floor\n", floor);
 }
